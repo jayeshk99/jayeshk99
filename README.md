@@ -2,8 +2,8 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayesh Khairnar</h1>
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
-Dedicated Full-Stack web developer who is passionate about learning new
-things. A good leader and a good team player. Looking forward to developing
+Dedicated Full-Stack web developer skilled in MERN stack who is passionate about learning new
+things. A good team player. Looking forward to developing
 products that help in making people’s lives better and becoming an integral part
 of an organization that helps me grow.
 
