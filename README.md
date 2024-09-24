@@ -10,7 +10,6 @@ of an organization that helps me grow.
 <br/>
 <br/>
 
-🌱 I’m currently learning: Full Stack Web Development
 
 
 
